@@ -76,7 +76,7 @@ This project leverages advanced data structures, specifically binary trees, to i
 - **Doxygen** for documentation
 
 ## Documentation
-For detailed documentation, [click here](./Doc/index.html).
+For detailed documentation, [click here](https://lorenzotallarico.github.io/API_Project/Doc/index.html).
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
