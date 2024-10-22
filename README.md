@@ -41,7 +41,7 @@ make API_Tallarico
 ```
 ## Project Specification
 
-For detailed information regarding the project requirements and specifications, you can access the PDF file [here](./Instructions_ENG.pdf)or the Italian version [here](./Instructions_ITA.pdf).
+For detailed information regarding the project requirements and specifications, you can access the PDF file [here](./Instructions_ENG.pdf) or the Italian version [here](./Instructions_ITA.pdf).
 
 ## Usage
 You can interact with the application by providing commands through an input file. The available commands include:
