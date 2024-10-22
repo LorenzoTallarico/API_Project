@@ -1,0 +1,9 @@
+<map id="creaRoute" name="creaRoute">
+<area shape="rect" id="node1" title="Creates a new route with the given ID." alt="" coords="663,56,751,83"/>
+<area shape="rect" id="node2" href="$API__Tallarico_8c.html#a4626dd0591c4e5d4c4b8dafd65a66c6c" title="Creates a copy of the given &#39;Route&#39; linked list." alt="" coords="445,5,540,32"/>
+<area shape="rect" id="node3" href="$API__Tallarico_8c.html#a11380484155b54da06d9e9b133ce3a6e" title="Recursively searches for the best reachable station using binary tree properties." alt="" coords="379,56,607,83"/>
+<area shape="rect" id="node6" href="$API__Tallarico_8c.html#a88d8a3640bc76921261b3eb153a7b91f" title="Recursively marks stations in a descending order binary tree and adds routes." alt="" coords="371,107,615,133"/>
+<area shape="rect" id="node4" href="$API__Tallarico_8c.html#abe52ff158ead9ff1a8b450283e239905" title="Plans a route between ascending stations up to the arrival station." alt="" coords="116,56,315,83"/>
+<area shape="rect" id="node5" href="$API__Tallarico_8c.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="Main function to manage the station and vehicle system." alt="" coords="5,81,60,108"/>
+<area shape="rect" id="node7" href="$API__Tallarico_8c.html#ad15da2f728f189ecc412ae6a4ea22cde" title="Plans a descending route from the starting station to the destination." alt="" coords="108,107,323,133"/>
+</map>

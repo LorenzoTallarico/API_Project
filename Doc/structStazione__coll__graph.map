@@ -1,0 +1,5 @@
+<map id="Stazione" name="Stazione">
+<area shape="rect" id="node1" title="Represents a station in the transportation network." alt="" coords="67,106,146,133"/>
+<area shape="rect" id="node2" href="$structVeicolo.html" title="Represents a vehicle in the transportation system." alt="" coords="5,7,75,33"/>
+<area shape="rect" id="node3" href="$structRoute.html" title="Represents a route in the transportation network." alt="" coords="145,7,205,33"/>
+</map>
