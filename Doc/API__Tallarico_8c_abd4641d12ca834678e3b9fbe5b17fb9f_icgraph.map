@@ -1,0 +1,8 @@
+<map id="aggiungiSpazzatura" name="aggiungiSpazzatura">
+<area shape="rect" id="node1" title="Adds a new &#39;Spazzatura&#39; node to the front of the list." alt="" coords="663,31,813,57"/>
+<area shape="rect" id="node2" href="$API__Tallarico_8c.html#a11380484155b54da06d9e9b133ce3a6e" title="Recursively searches for the best reachable station using binary tree properties." alt="" coords="379,5,607,32"/>
+<area shape="rect" id="node5" href="$API__Tallarico_8c.html#a88d8a3640bc76921261b3eb153a7b91f" title="Recursively marks stations in a descending order binary tree and adds routes." alt="" coords="371,56,615,83"/>
+<area shape="rect" id="node3" href="$API__Tallarico_8c.html#abe52ff158ead9ff1a8b450283e239905" title="Plans a route between ascending stations up to the arrival station." alt="" coords="116,5,315,32"/>
+<area shape="rect" id="node4" href="$API__Tallarico_8c.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="Main function to manage the station and vehicle system." alt="" coords="5,31,60,57"/>
+<area shape="rect" id="node6" href="$API__Tallarico_8c.html#ad15da2f728f189ecc412ae6a4ea22cde" title="Plans a descending route from the starting station to the destination." alt="" coords="108,56,323,83"/>
+</map>

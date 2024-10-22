@@ -1,0 +1,4 @@
+<map id="stampaTutto" name="stampaTutto">
+<area shape="rect" id="node1" title="Recursively prints the ID of each station and the autonomy of all its vehicles (Post&#45;order)." alt="" coords="5,5,108,32"/>
+<area shape="rect" id="node2" href="$API__Tallarico_8c.html#a5ffbfee29179239c7f944a05c438fe0d" title="Recursively prints the autonomy of all vehicles in the binary tree (Post&#45;order)." alt="" coords="156,5,271,32"/>
+</map>

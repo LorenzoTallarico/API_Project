@@ -1,0 +1,10 @@
+<map id="pianificaPercorsoCrescente" name="pianificaPercorsoCrescente">
+<area shape="rect" id="node1" title="Plans a route between ascending stations up to the arrival station." alt="" coords="5,107,204,133"/>
+<area shape="rect" id="node2" href="$API__Tallarico_8c.html#a2bbb555131eb1fb83df83ad2f2e193bf" title="Searches for the last parent station reachable based on given ID limits." alt="" coords="305,5,427,32"/>
+<area shape="rect" id="node3" href="$API__Tallarico_8c.html#a11380484155b54da06d9e9b133ce3a6e" title="Recursively searches for the best reachable station using binary tree properties." alt="" coords="252,56,480,83"/>
+<area shape="rect" id="node6" href="$API__Tallarico_8c.html#ad5139c18b7a9cf5cd84e306d8bc273a9" title="Recursively prints the IDs of all routes in the list." alt="" coords="311,107,421,133"/>
+<area shape="rect" id="node7" href="$API__Tallarico_8c.html#ad8ff47a9b1de9b5cbd86e6c9360ddcce" title="Finds the in&#45;order successor of a station in the binary tree." alt="" coords="319,157,413,184"/>
+<area shape="rect" id="node8" href="$API__Tallarico_8c.html#a7afd0eb32a3baa741d5b60249a3edc76" title="Empties the &#39;Spazzatura&#39; linked list." alt="" coords="297,208,435,235"/>
+<area shape="rect" id="node4" href="$API__Tallarico_8c.html#abd4641d12ca834678e3b9fbe5b17fb9f" title="Adds a new &#39;Spazzatura&#39; node to the front of the list." alt="" coords="528,31,679,57"/>
+<area shape="rect" id="node5" href="$API__Tallarico_8c.html#a2fc08667a35d2b572b88d51dc2dff32c" title="Creates a new route with the given ID." alt="" coords="559,81,647,108"/>
+</map>

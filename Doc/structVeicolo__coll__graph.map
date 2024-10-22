@@ -1,0 +1,3 @@
+<map id="Veicolo" name="Veicolo">
+<area shape="rect" id="node1" title="Represents a vehicle in the transportation system." alt="" coords="5,7,75,33"/>
+</map>
