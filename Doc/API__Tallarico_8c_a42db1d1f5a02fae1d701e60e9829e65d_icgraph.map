@@ -1,6 +1,0 @@
-<map id="eliminaTuttiVeicoli" name="eliminaTuttiVeicoli">
-<area shape="rect" id="node1" title="Deletes all vehicles in a binary tree of vehicles." alt="" coords="283,31,425,57"/>
-<area shape="rect" id="node2" href="$API__Tallarico_8c.html#a7acbb5f880fa5fd6779fc429ae77a91d" title="Removes a station from a binary tree of stations based on its unique ID." alt="" coords="108,5,235,32"/>
-<area shape="rect" id="node4" href="$API__Tallarico_8c.html#a7c4c80dc97f9006b5a97b0b95bb6c67a" title="Recursively deletes all stations and their vehicles in the binary tree." alt="" coords="119,56,224,83"/>
-<area shape="rect" id="node3" href="$API__Tallarico_8c.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="Main function to manage the station and vehicle system." alt="" coords="5,31,60,57"/>
-</map>

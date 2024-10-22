@@ -1,6 +1,0 @@
-<map id="svuotaSpazzatura" name="svuotaSpazzatura">
-<area shape="rect" id="node1" title="Empties the &#39;Spazzatura&#39; linked list." alt="" coords="371,31,509,57"/>
-<area shape="rect" id="node2" href="$API__Tallarico_8c.html#abe52ff158ead9ff1a8b450283e239905" title="Plans a route between ascending stations up to the arrival station." alt="" coords="116,5,315,32"/>
-<area shape="rect" id="node4" href="$API__Tallarico_8c.html#ad15da2f728f189ecc412ae6a4ea22cde" title="Plans a descending route from the starting station to the destination." alt="" coords="108,56,323,83"/>
-<area shape="rect" id="node3" href="$API__Tallarico_8c.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="Main function to manage the station and vehicle system." alt="" coords="5,31,60,57"/>
-</map>

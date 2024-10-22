@@ -1,5 +1,0 @@
-<map id="segnatoreSottoAlberoCrescente" name="segnatoreSottoAlberoCrescente">
-<area shape="rect" id="node1" title="Recursively searches for the best reachable station using binary tree properties." alt="" coords="355,5,583,32"/>
-<area shape="rect" id="node2" href="$API__Tallarico_8c.html#abe52ff158ead9ff1a8b450283e239905" title="Plans a route between ascending stations up to the arrival station." alt="" coords="108,5,307,32"/>
-<area shape="rect" id="node3" href="$API__Tallarico_8c.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="Main function to manage the station and vehicle system." alt="" coords="5,5,60,32"/>
-</map>
