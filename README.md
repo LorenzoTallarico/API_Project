@@ -77,7 +77,7 @@ This project leverages advanced data structures, specifically binary trees, to i
 
 ## Documentation
 For detailed documentation, [click here](https://lorenzotallarico.github.io/API_Project/Doc/index.html).
-In case of any display issues, you can access the complete documentation in PDF format, [click here](CompleteDocumentation.pdf).
+In case of any display issues, you can access the complete documentation in PDF format, [click here](./Doc/CompleteDocumentation.pdf).
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
