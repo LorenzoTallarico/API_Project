@@ -40,8 +40,10 @@ make API_Tallarico
 ./API_Tallarico < path_input_file.txt > output_file.txt
 ```
 ## Project Specification
+For further information on the project context and requirements, please refer to the detailed project document, available in both English and Italian:
 
-For detailed information regarding the project requirements and specifications, you can access the PDF file [here](./Instructions_ENG.pdf) or the Italian version [here](./Instructions_ITA.pdf).
+- [English version](./Instrucions_ENG.pdf)
+- [Italian version](./Instrucions_ITA.pdf)
 
 ## Usage
 You can interact with the application by providing commands through an input file. The available commands include:
